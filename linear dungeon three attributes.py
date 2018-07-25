@@ -8,7 +8,7 @@ Created on Tue Jul 24 20:46:13 2018
 Program used for experimental study of information asymmetry in decision making (business), risk-taking behavior, and cognition.
 
 Suggested citation as computer software for reference:
-Pan, Alan J. (2018). Linear Dungeon [Computer software]. Github repository <url>
+Pan, Alan J. (2018). Linear Dungeon [Computer software]. Github repository <https://github.com/alanjpan/Linear-Dungeon>
 
 Futher expansions may include character development, equipment packs, and others, particularly financial literacy (finance) and purchasing decisions (marketing).
 
