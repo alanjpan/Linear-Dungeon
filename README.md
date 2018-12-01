@@ -1,7 +1,7 @@
 # Linear-Dungeon
 experimental research tool for information asymmetry
 
-@author: Alan Jerry Pan, CPA, CSC
+@author: Alan Jerry Pan, CPA, CSc student
 @affiliation: Shanghai Jiaotong University
 
 Program used for experimental study of information asymmetry in decision making (business), risk-taking behavior, and cognition.
