@@ -2,7 +2,7 @@
 """
 Created on Tue Jul 24 20:46:13 2018
 
-@author: Alan Jerry Pan, CPA, CSC
+@author: Alan Jerry Pan, CPA, CSc student
 @affiliation: Shanghai Jiaotong University
 
 Program used for experimental study of information asymmetry in decision making (business), risk-taking behavior, and cognition.
